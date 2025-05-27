@@ -4,7 +4,7 @@ This repository contains the datasets associated with our manuscript:
 “Data dashboard to support meta-analyses on influenza vaccine effectiveness across regions, influenza seasons, and outcomes.”
 👉 [Read the preprint here: insert DOI]
 
-We conducted a comprehensive literature review of studies published between 2011 and 2019 that reported on influenza vaccine effectiveness. In total, we identified 239 peer-reviewed articles. From these, we compiled and curated dashboard-ready datasets in neatly organized Excel files.
+We conducted a comprehensive literature review of studies conducted between 2011 and 2019 that reported on influenza vaccine effectiveness. In total, we identified 239 peer-reviewed articles. From these, we compiled and curated dashboard-ready datasets in neatly organized Excel files.
 
 These datasets support stratified analyses by:
 
