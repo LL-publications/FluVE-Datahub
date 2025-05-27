@@ -8,19 +8,19 @@ We conducted a comprehensive literature review of studies published between 2011
 
 These datasets support stratified analyses by:
 
-Geographic region
+- Geographic region
 
-Influenza season
+- Influenza season
 
-Clinical outcome
+- Clinical outcome
 
-Influenza subtype
+- Influenza subtype
 
-Vaccine characteristics (valency, type, dose)
+- Vaccine characteristics (valency, type, dose)
 
-Risk group
+- Risk group
 
-Medical attendance type
+- Medical attendance type
 
 We encourage you to download, explore, and analyze the data. You’re also welcome to build on it by incorporating more recent data.
 
