@@ -6,6 +6,10 @@ This repository contains the datasets associated with our manuscript:
 
 We conducted a comprehensive literature review of studies conducted between 2011 and 2019 that reported on influenza vaccine effectiveness. In total, we identified 239 peer-reviewed articles. From these, we compiled and curated dashboard-ready datasets in neatly organized Excel files.
 
+"SLR_AnalysisDF_21082026" contains individual vaccine effectiveness estimates;
+"IVE_SLR_studies_descriptives_21082026" contains study descriptives of studies with test-negative design; and
+"IVE_SLR-All_MA_Outputs_21082026" contains all meta-analyses.
+
 These datasets support stratified analyses by:
 
 - Geographic region
